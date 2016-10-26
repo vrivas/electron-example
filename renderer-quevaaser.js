@@ -7,10 +7,10 @@ div.innerHTML="Tengo "
   +tm.length+" motivos para molerte, así que he decidido que... ";
 
 if( tc.length>tm.length ) {
-  div.innerHTML+='<strong>te amo con toda el alma.</strong>';
+  div.innerHTML+='<strong>te amo con toda el alma, nietecito de mi vida.</strong>';
 }
 if( tm.length>tc.length ) {
-  div.innerHTML+='<strong>eres un ser abyecto y despreciable.</strong>';
+  div.innerHTML+='<strong>eres un nieto abyecto y despreciable.</strong>';
 }
 if( tm.length==tc.length ) {
   div.innerHTML+='<strong>necesito otra semana para decidirme.</strong>';
